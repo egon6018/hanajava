@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="815db59e-3e41-4fd0-9ade-a6bdf7f18e58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/Operator/Operator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/day02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hanajava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="815db59e-3e41-4fd0-9ade-a6bdf7f18e58" name="Changes" comment="240308 - day02 - second">
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day022/day022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day022/src/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day022/src/company/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,13 +39,24 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2dNncGb1fkia2GNNoJRxHWqOYZ5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.Array3.executor": "Run",
+    "Application.Array4.executor": "Run",
+    "Application.Array6.executor": "Run",
+    "Application.Array7.executor": "Run",
+    "Application.Condition1.executor": "Run",
+    "Application.Condition2.executor": "Run",
+    "Application.Loop2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -43,7 +68,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/hanajava/day02/src/Main.java",
+    "onboarding.tips.debug.path": "C:/hanajava/day022/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
@@ -64,8 +89,33 @@
       <option name="presentableId" value="Default" />
       <updated>1709857482890</updated>
       <workItem from="1709857483967" duration="87000" />
-      <workItem from="1709857587754" duration="345000" />
+      <workItem from="1709857587754" duration="16068000" />
     </task>
+    <task id="LOCAL-00001" summary="240308">
+      <option name="closed" value="true" />
+      <created>1709857948096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709857948096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="240308 - day02">
+      <option name="closed" value="true" />
+      <created>1709860442440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709860442440</updated>
+    </task>
+    <task id="LOCAL-00003" summary="240308 - day02 - second">
+      <option name="closed" value="true" />
+      <created>1709863439638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709863439638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +131,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="240308" />
+    <MESSAGE value="240308 - day02" />
+    <MESSAGE value="240308 - day02 - second" />
+    <option name="LAST_COMMIT_MESSAGE" value="240308 - day02 - second" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -99,6 +155,11 @@
           <url>file://$PROJECT_DIR$/day02/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day022/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
