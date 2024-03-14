@@ -18,11 +18,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/day055.main.iml" filepath="$PROJECT_DIR$/.idea/modules/day055.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/day055.test.iml" filepath="$PROJECT_DIR$/.idea/modules/day055.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05_homework/day05_homework.iml" filepath="$PROJECT_DIR$/day05_homework/day05_homework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day05_homework.main.iml" filepath="$PROJECT_DIR$/.idea/modules/day05_homework.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day05_homework.test.iml" filepath="$PROJECT_DIR$/.idea/modules/day05_homework.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06.iml" filepath="$PROJECT_DIR$/day06.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/day06.main.iml" filepath="$PROJECT_DIR$/.idea/modules/day06.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/day06.test.iml" filepath="$PROJECT_DIR$/.idea/modules/day06.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day066.iml" filepath="$PROJECT_DIR$/day066.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day066.main.iml" filepath="$PROJECT_DIR$/.idea/modules/day066.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day066.test.iml" filepath="$PROJECT_DIR$/.idea/modules/day066.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/hanajava.iml" filepath="$PROJECT_DIR$/hanajava.iml" />
     </modules>
   </component>
