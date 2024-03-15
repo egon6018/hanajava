@@ -4,23 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="815db59e-3e41-4fd0-9ade-a6bdf7f18e58" name="Changes" comment="240314 - day066 - second">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/day07.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/day07.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day066/src/main/java/com/hana/jdbc/JDBC3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day066/src/main/java/com/hana/jdbc/JDBC4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day066/src/main/java/com/hana/jdbc/JDBC5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/main/java/com/hana/data/CustDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="815db59e-3e41-4fd0-9ade-a6bdf7f18e58" name="Changes" comment="240315 - day07 - first">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_25_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mysql_mysql_connector_j_8_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/main/java/com/hana/frame/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/main/java/com/hana/frame/SQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/main/java/com/hana/repository/CustRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/main/java/com/hana/service/CustService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/main/resources/mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/test/java/ConnectionPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/test/java/CustInsertTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/day07.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/day07.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/day07.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/day07.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05_homework/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05_homework/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05_homework/src/grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/.gradle/8.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/day07/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/day07/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/day07/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/day07/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/day07/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/src/main/java/com/hana/frame/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07/src/main/java/com/hana/frame/Repository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +106,8 @@
     "Application.BankApp.executor": "Run",
     "Application.Condition1.executor": "Run",
     "Application.Condition2.executor": "Run",
+    "Application.ConnectionPoolTest.executor": "Run",
+    "Application.CustInsertTest.executor": "Run",
     "Application.JDBC1.executor": "Run",
     "Application.JDBC2.executor": "Run",
     "Application.JDBC4.executor": "Run",
@@ -125,6 +133,7 @@
     "Gradle.day044 [:Main.main()].executor": "Run",
     "Gradle.day06 [:List1.main()].executor": "Run",
     "Gradle.day066 [:JDBC1.main()].executor": "Run",
+    "Gradle.day07 [:ConnectionPoolTest.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -146,11 +155,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.hana.exception" />
       <recent name="com.hana.jdbc" />
       <recent name="com.hana.collection" />
       <recent name="com.hana" />
-      <recent name="" />
-      <recent name="company" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -175,7 +184,7 @@
       <workItem from="1710144138294" duration="2258000" />
       <workItem from="1710201924874" duration="21219000" />
       <workItem from="1710376121994" duration="14920000" />
-      <workItem from="1710461642258" duration="2760000" />
+      <workItem from="1710461642258" duration="13907000" />
     </task>
     <task id="LOCAL-00001" summary="240308">
       <option name="closed" value="true" />
@@ -257,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710405582413</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="240315 - day07 - first">
+      <option name="closed" value="true" />
+      <created>1710466510174</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710466510174</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +302,8 @@
     <MESSAGE value="240313 - day05" />
     <MESSAGE value="240313 - day06 - first" />
     <MESSAGE value="240314 - day066 - second" />
-    <option name="LAST_COMMIT_MESSAGE" value="240314 - day066 - second" />
+    <MESSAGE value="240315 - day07 - first" />
+    <option name="LAST_COMMIT_MESSAGE" value="240315 - day07 - first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -344,11 +362,6 @@
           <url>file://$PROJECT_DIR$/day05_homework/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day05_homework/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/day05/src/main/java/org/example/Main.java</url>
